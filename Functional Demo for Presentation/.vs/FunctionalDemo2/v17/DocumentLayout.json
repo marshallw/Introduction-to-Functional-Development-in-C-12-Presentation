@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|c:\\users\\marshall.wilson\\source\\repos\\introduction-to-functional-development-in-c-12-presentation\\functional demo end\\functionaldemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|solutionrelative:functionaldemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|c:\\users\\marshall.wilson\\source\\repos\\introduction-to-functional-development-in-c-12-presentation\\functional demo end\\functionaldemo2\\domain\\catalog\\catalogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|solutionrelative:functionaldemo2\\domain\\catalog\\catalogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|c:\\users\\marshall.wilson\\source\\repos\\introduction-to-functional-development-in-c-12-presentation\\functional demo end\\functionaldemo2\\domain\\objectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|solutionrelative:functionaldemo2\\domain\\objectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|c:\\users\\marshall.wilson\\source\\repos\\introduction-to-functional-development-in-c-12-presentation\\functional demo end\\functionaldemo2\\persistence\\catalogitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|solutionrelative:functionaldemo2\\persistence\\catalogitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|c:\\users\\marshall.wilson\\source\\repos\\introduction-to-functional-development-in-c-12-presentation\\functional demo end\\functionaldemo2\\types\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|solutionrelative:functionaldemo2\\types\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|c:\\users\\marshall.wilson\\source\\repos\\introduction-to-functional-development-in-c-12-presentation\\functional demo end\\functionaldemo2\\types\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA88263-D2F5-43A9-A9F7-219701B267A5}|FunctionalDemo2\\FunctionalDemo2.csproj|solutionrelative:functionaldemo2\\types\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:391973312:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Domain\\Catalog\\CatalogExtensions.cs",
+              "RelativeDocumentMoniker": "FunctionalDemo2\\Domain\\Catalog\\CatalogExtensions.cs",
+              "ToolTip": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Domain\\Catalog\\CatalogExtensions.cs",
+              "RelativeToolTip": "FunctionalDemo2\\Domain\\Catalog\\CatalogExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:20:21.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Domain\\ObjectExtensions.cs",
+              "RelativeDocumentMoniker": "FunctionalDemo2\\Domain\\ObjectExtensions.cs",
+              "ToolTip": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Domain\\ObjectExtensions.cs",
+              "RelativeToolTip": "FunctionalDemo2\\Domain\\ObjectExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:20:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Persistence\\CatalogItemsRepository.cs",
+              "RelativeDocumentMoniker": "FunctionalDemo2\\Persistence\\CatalogItemsRepository.cs",
+              "ToolTip": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Persistence\\CatalogItemsRepository.cs",
+              "RelativeToolTip": "FunctionalDemo2\\Persistence\\CatalogItemsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:19:49.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalDemo2\\Program.cs",
+              "ToolTip": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Program.cs",
+              "RelativeToolTip": "FunctionalDemo2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:17:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogItem.cs",
+              "DocumentMoniker": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Types\\CatalogItem.cs",
+              "RelativeDocumentMoniker": "FunctionalDemo2\\Types\\CatalogItem.cs",
+              "ToolTip": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Types\\CatalogItem.cs",
+              "RelativeToolTip": "FunctionalDemo2\\Types\\CatalogItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:18:27.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Option.cs",
+              "DocumentMoniker": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Types\\Option.cs",
+              "RelativeDocumentMoniker": "FunctionalDemo2\\Types\\Option.cs",
+              "ToolTip": "C:\\Users\\marshall.wilson\\Source\\Repos\\Introduction-to-Functional-Development-in-C-12-Presentation\\Functional Demo End\\FunctionalDemo2\\Types\\Option.cs",
+              "RelativeToolTip": "FunctionalDemo2\\Types\\Option.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:18:15.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

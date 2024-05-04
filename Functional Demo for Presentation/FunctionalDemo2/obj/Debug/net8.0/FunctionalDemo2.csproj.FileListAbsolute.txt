@@ -1,0 +1,14 @@
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\FunctionalDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\FunctionalDemo2.AssemblyInfoInputs.cache
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\FunctionalDemo2.AssemblyInfo.cs
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\FunctionalDemo2.csproj.CoreCompileInputs.cache
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\bin\Debug\net8.0\FunctionalDemo2.exe
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\bin\Debug\net8.0\FunctionalDemo2.deps.json
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\bin\Debug\net8.0\FunctionalDemo2.runtimeconfig.json
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\bin\Debug\net8.0\FunctionalDemo2.dll
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\bin\Debug\net8.0\FunctionalDemo2.pdb
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\FunctionalDemo2.dll
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\refint\FunctionalDemo2.dll
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\FunctionalDemo2.pdb
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\FunctionalDemo2.genruntimeconfig.cache
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo2\FunctionalDemo2\obj\Debug\net8.0\ref\FunctionalDemo2.dll

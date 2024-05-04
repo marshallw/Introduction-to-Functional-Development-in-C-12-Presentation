@@ -1,0 +1,14 @@
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\bin\Debug\net7.0\FunctionalConsole.exe
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\bin\Debug\net7.0\FunctionalConsole.deps.json
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\bin\Debug\net7.0\FunctionalConsole.runtimeconfig.json
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\bin\Debug\net7.0\FunctionalConsole.dll
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\bin\Debug\net7.0\FunctionalConsole.pdb
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\FunctionalConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\FunctionalConsole.AssemblyInfoInputs.cache
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\FunctionalConsole.AssemblyInfo.cs
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\FunctionalConsole.csproj.CoreCompileInputs.cache
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\FunctionalConsole.dll
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\refint\FunctionalConsole.dll
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\FunctionalConsole.pdb
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\FunctionalConsole.genruntimeconfig.cache
+C:\Users\marshall.wilson\Source\Repos\FunctionalDemo\FunctionalConsole\obj\Debug\net7.0\ref\FunctionalConsole.dll
